@@ -1,0 +1,15 @@
+C:\Users\hamster\Desktop\self\eleventh\bin\Debug\net6.0\eleventh.exe
+C:\Users\hamster\Desktop\self\eleventh\bin\Debug\net6.0\eleventh.deps.json
+C:\Users\hamster\Desktop\self\eleventh\bin\Debug\net6.0\eleventh.runtimeconfig.json
+C:\Users\hamster\Desktop\self\eleventh\bin\Debug\net6.0\eleventh.dll
+C:\Users\hamster\Desktop\self\eleventh\bin\Debug\net6.0\ref\eleventh.dll
+C:\Users\hamster\Desktop\self\eleventh\bin\Debug\net6.0\eleventh.pdb
+C:\Users\hamster\Desktop\self\eleventh\obj\Debug\net6.0\eleventh.csproj.AssemblyReference.cache
+C:\Users\hamster\Desktop\self\eleventh\obj\Debug\net6.0\eleventh.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hamster\Desktop\self\eleventh\obj\Debug\net6.0\eleventh.AssemblyInfoInputs.cache
+C:\Users\hamster\Desktop\self\eleventh\obj\Debug\net6.0\eleventh.AssemblyInfo.cs
+C:\Users\hamster\Desktop\self\eleventh\obj\Debug\net6.0\eleventh.csproj.CoreCompileInputs.cache
+C:\Users\hamster\Desktop\self\eleventh\obj\Debug\net6.0\eleventh.dll
+C:\Users\hamster\Desktop\self\eleventh\obj\Debug\net6.0\ref\eleventh.dll
+C:\Users\hamster\Desktop\self\eleventh\obj\Debug\net6.0\eleventh.pdb
+C:\Users\hamster\Desktop\self\eleventh\obj\Debug\net6.0\eleventh.genruntimeconfig.cache
