@@ -1,0 +1,5 @@
+C:\Users\hamster\Desktop\self\task017\obj\Debug\net6.0\task017.csproj.AssemblyReference.cache
+C:\Users\hamster\Desktop\self\task017\obj\Debug\net6.0\task017.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hamster\Desktop\self\task017\obj\Debug\net6.0\task017.AssemblyInfoInputs.cache
+C:\Users\hamster\Desktop\self\task017\obj\Debug\net6.0\task017.AssemblyInfo.cs
+C:\Users\hamster\Desktop\self\task017\obj\Debug\net6.0\task017.csproj.CoreCompileInputs.cache
