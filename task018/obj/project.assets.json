@@ -8,24 +8,31 @@
     "net6.0": []
   },
   "packageFolders": {
-    "C:\\Users\\hamster\\.nuget\\packages\\": {}
+    "C:\\Users\\hamster\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\hamster\\Desktop\\self\\eighteen\\eighteen.csproj",
+      "projectUniqueName": "C:\\Users\\hamster\\Desktop\\self\\task018\\eighteen.csproj",
       "projectName": "eighteen",
-      "projectPath": "C:\\Users\\hamster\\Desktop\\self\\eighteen\\eighteen.csproj",
+      "projectPath": "C:\\Users\\hamster\\Desktop\\self\\task018\\eighteen.csproj",
       "packagesPath": "C:\\Users\\hamster\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\hamster\\Desktop\\self\\eighteen\\obj\\",
+      "outputPath": "C:\\Users\\hamster\\Desktop\\self\\task018\\obj\\",
       "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+      ],
       "configFilePaths": [
-        "C:\\Users\\hamster\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "C:\\Users\\hamster\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
         "net6.0"
       ],
       "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {

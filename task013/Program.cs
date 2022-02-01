@@ -11,6 +11,6 @@ class UseDecimal
         discount = 0.15m;
         
         discounted_price = price - (price * discount);
-        Console.WriteLine("Цена со скидкой: $" + discounted_price);
+        Console.WriteLine("Цена со скидкой: {0:C}", discounted_price);
     }
 }

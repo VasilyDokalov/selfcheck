@@ -1,0 +1,15 @@
+C:\Users\hamster\Desktop\self\task018\bin\Debug\net6.0\eighteen.exe
+C:\Users\hamster\Desktop\self\task018\bin\Debug\net6.0\eighteen.deps.json
+C:\Users\hamster\Desktop\self\task018\bin\Debug\net6.0\eighteen.runtimeconfig.json
+C:\Users\hamster\Desktop\self\task018\bin\Debug\net6.0\eighteen.dll
+C:\Users\hamster\Desktop\self\task018\bin\Debug\net6.0\ref\eighteen.dll
+C:\Users\hamster\Desktop\self\task018\bin\Debug\net6.0\eighteen.pdb
+C:\Users\hamster\Desktop\self\task018\obj\Debug\net6.0\eighteen.csproj.AssemblyReference.cache
+C:\Users\hamster\Desktop\self\task018\obj\Debug\net6.0\eighteen.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hamster\Desktop\self\task018\obj\Debug\net6.0\eighteen.AssemblyInfoInputs.cache
+C:\Users\hamster\Desktop\self\task018\obj\Debug\net6.0\eighteen.AssemblyInfo.cs
+C:\Users\hamster\Desktop\self\task018\obj\Debug\net6.0\eighteen.csproj.CoreCompileInputs.cache
+C:\Users\hamster\Desktop\self\task018\obj\Debug\net6.0\eighteen.dll
+C:\Users\hamster\Desktop\self\task018\obj\Debug\net6.0\ref\eighteen.dll
+C:\Users\hamster\Desktop\self\task018\obj\Debug\net6.0\eighteen.pdb
+C:\Users\hamster\Desktop\self\task018\obj\Debug\net6.0\eighteen.genruntimeconfig.cache

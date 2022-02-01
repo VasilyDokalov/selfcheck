@@ -1,0 +1,15 @@
+C:\Users\hamster\Desktop\self\task013\bin\Debug\net6.0\thirteen.exe
+C:\Users\hamster\Desktop\self\task013\bin\Debug\net6.0\thirteen.deps.json
+C:\Users\hamster\Desktop\self\task013\bin\Debug\net6.0\thirteen.runtimeconfig.json
+C:\Users\hamster\Desktop\self\task013\bin\Debug\net6.0\thirteen.dll
+C:\Users\hamster\Desktop\self\task013\bin\Debug\net6.0\ref\thirteen.dll
+C:\Users\hamster\Desktop\self\task013\bin\Debug\net6.0\thirteen.pdb
+C:\Users\hamster\Desktop\self\task013\obj\Debug\net6.0\thirteen.csproj.AssemblyReference.cache
+C:\Users\hamster\Desktop\self\task013\obj\Debug\net6.0\thirteen.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hamster\Desktop\self\task013\obj\Debug\net6.0\thirteen.AssemblyInfoInputs.cache
+C:\Users\hamster\Desktop\self\task013\obj\Debug\net6.0\thirteen.AssemblyInfo.cs
+C:\Users\hamster\Desktop\self\task013\obj\Debug\net6.0\thirteen.csproj.CoreCompileInputs.cache
+C:\Users\hamster\Desktop\self\task013\obj\Debug\net6.0\thirteen.dll
+C:\Users\hamster\Desktop\self\task013\obj\Debug\net6.0\ref\thirteen.dll
+C:\Users\hamster\Desktop\self\task013\obj\Debug\net6.0\thirteen.pdb
+C:\Users\hamster\Desktop\self\task013\obj\Debug\net6.0\thirteen.genruntimeconfig.cache
