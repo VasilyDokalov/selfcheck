@@ -1,0 +1,15 @@
+C:\Users\hamster\Desktop\develop\self\task028\obj\Debug\net6.0\task028.csproj.AssemblyReference.cache
+C:\Users\hamster\Desktop\develop\self\task028\obj\Debug\net6.0\task028.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hamster\Desktop\develop\self\task028\obj\Debug\net6.0\task028.AssemblyInfoInputs.cache
+C:\Users\hamster\Desktop\develop\self\task028\obj\Debug\net6.0\task028.AssemblyInfo.cs
+C:\Users\hamster\Desktop\develop\self\task028\obj\Debug\net6.0\task028.csproj.CoreCompileInputs.cache
+C:\Users\hamster\Desktop\develop\self\task028\bin\Debug\net6.0\task028.exe
+C:\Users\hamster\Desktop\develop\self\task028\bin\Debug\net6.0\task028.deps.json
+C:\Users\hamster\Desktop\develop\self\task028\bin\Debug\net6.0\task028.runtimeconfig.json
+C:\Users\hamster\Desktop\develop\self\task028\bin\Debug\net6.0\task028.dll
+C:\Users\hamster\Desktop\develop\self\task028\bin\Debug\net6.0\ref\task028.dll
+C:\Users\hamster\Desktop\develop\self\task028\bin\Debug\net6.0\task028.pdb
+C:\Users\hamster\Desktop\develop\self\task028\obj\Debug\net6.0\task028.dll
+C:\Users\hamster\Desktop\develop\self\task028\obj\Debug\net6.0\ref\task028.dll
+C:\Users\hamster\Desktop\develop\self\task028\obj\Debug\net6.0\task028.pdb
+C:\Users\hamster\Desktop\develop\self\task028\obj\Debug\net6.0\task028.genruntimeconfig.cache

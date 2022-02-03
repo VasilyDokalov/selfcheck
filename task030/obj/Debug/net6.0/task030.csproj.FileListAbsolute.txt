@@ -1,0 +1,15 @@
+C:\Users\hamster\Desktop\develop\self\task030\bin\Debug\net6.0\task030.exe
+C:\Users\hamster\Desktop\develop\self\task030\bin\Debug\net6.0\task030.deps.json
+C:\Users\hamster\Desktop\develop\self\task030\bin\Debug\net6.0\task030.runtimeconfig.json
+C:\Users\hamster\Desktop\develop\self\task030\bin\Debug\net6.0\task030.dll
+C:\Users\hamster\Desktop\develop\self\task030\bin\Debug\net6.0\ref\task030.dll
+C:\Users\hamster\Desktop\develop\self\task030\bin\Debug\net6.0\task030.pdb
+C:\Users\hamster\Desktop\develop\self\task030\obj\Debug\net6.0\task030.csproj.AssemblyReference.cache
+C:\Users\hamster\Desktop\develop\self\task030\obj\Debug\net6.0\task030.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hamster\Desktop\develop\self\task030\obj\Debug\net6.0\task030.AssemblyInfoInputs.cache
+C:\Users\hamster\Desktop\develop\self\task030\obj\Debug\net6.0\task030.AssemblyInfo.cs
+C:\Users\hamster\Desktop\develop\self\task030\obj\Debug\net6.0\task030.csproj.CoreCompileInputs.cache
+C:\Users\hamster\Desktop\develop\self\task030\obj\Debug\net6.0\task030.dll
+C:\Users\hamster\Desktop\develop\self\task030\obj\Debug\net6.0\ref\task030.dll
+C:\Users\hamster\Desktop\develop\self\task030\obj\Debug\net6.0\task030.pdb
+C:\Users\hamster\Desktop\develop\self\task030\obj\Debug\net6.0\task030.genruntimeconfig.cache

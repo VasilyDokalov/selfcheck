@@ -1,0 +1,15 @@
+C:\Users\hamster\Desktop\develop\self\task034\bin\Debug\net6.0\task034.exe
+C:\Users\hamster\Desktop\develop\self\task034\bin\Debug\net6.0\task034.deps.json
+C:\Users\hamster\Desktop\develop\self\task034\bin\Debug\net6.0\task034.runtimeconfig.json
+C:\Users\hamster\Desktop\develop\self\task034\bin\Debug\net6.0\task034.dll
+C:\Users\hamster\Desktop\develop\self\task034\bin\Debug\net6.0\ref\task034.dll
+C:\Users\hamster\Desktop\develop\self\task034\bin\Debug\net6.0\task034.pdb
+C:\Users\hamster\Desktop\develop\self\task034\obj\Debug\net6.0\task034.csproj.AssemblyReference.cache
+C:\Users\hamster\Desktop\develop\self\task034\obj\Debug\net6.0\task034.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hamster\Desktop\develop\self\task034\obj\Debug\net6.0\task034.AssemblyInfoInputs.cache
+C:\Users\hamster\Desktop\develop\self\task034\obj\Debug\net6.0\task034.AssemblyInfo.cs
+C:\Users\hamster\Desktop\develop\self\task034\obj\Debug\net6.0\task034.csproj.CoreCompileInputs.cache
+C:\Users\hamster\Desktop\develop\self\task034\obj\Debug\net6.0\task034.dll
+C:\Users\hamster\Desktop\develop\self\task034\obj\Debug\net6.0\ref\task034.dll
+C:\Users\hamster\Desktop\develop\self\task034\obj\Debug\net6.0\task034.pdb
+C:\Users\hamster\Desktop\develop\self\task034\obj\Debug\net6.0\task034.genruntimeconfig.cache
